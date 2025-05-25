@@ -15,7 +15,6 @@
 [![bestdori-api](https://github-readme-stats.vercel.app/api/pin/?username=windowssov8forus&repo=bestdori-api)](https://github.com/WindowsSov8forUs/bestdori-api)
 [![NoneBot-Plugin-Tsugu-BanGDream-Bot](https://github-readme-stats.vercel.app/api/pin/?username=windowssov8forus&repo=nonebot-plugin-tsugu-bangdream-bot)](https://github.com/WindowsSov8forUs/nonebot-plugin-tsugu-bangdream-bot)
 [![tsugu-api-python](https://github-readme-stats.vercel.app/api/pin/?username=windowssov8forus&repo=tsugu-api-python)](https://github.com/WindowsSov8forUs/tsugu-api-python)
-[![tsugu-api-python](https://github-readme-stats.vercel.app/api/pin/?username=windowssov8forus&repo=tsugu-api-python)](https://github.com/WindowsSov8forUs/tsugu-api-python)
 
 ## 语言
 
