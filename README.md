@@ -4,7 +4,7 @@
 
 - 🔭 我正在忙于 **重构 [GlycCat](https://github.com/WindowsSov8forUs/glyccat)**
 - 🌱 我正在学习 **_Python_ 以及 _GoLang_**
-- 🤔 我希望得到关于 **[Go-Kyutorin](https://github.com/WindowsSov8forUs/go-kyutorin)** 的帮助
+- 🤔 我希望得到关于 **[GlycCat](https://github.com/WindowsSov8forUs/glyccat)** 的帮助
 - 💬 可以询问我关于 **Tsugu-BanGDream-Bot 在 Python 中的各种实现** 的事！
 - 📫 可以通过 **QQ(1242954863)** 联系到我！
 - ⚡ 有趣的事实：我**没有**受到过**任何**系统深入的编程教学。
