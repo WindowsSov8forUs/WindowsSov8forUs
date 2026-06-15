@@ -2,7 +2,7 @@
 
 一位待业本科毕业生，正在人生的一个一个一个十字路口中迷路。
 
-- 🔭 我正在忙于 **重构 [GlycCat](https://github.com/WindowsSov8forUs/glyccat)**
+- 🔭 我正在忙于 **编写 [GarupaEditor](https://github.com/WindowsSov8forUs/GarupaEditor)**
 - 🌱 我正在学习 **_Python_ 以及 _GoLang_**
 - 🤔 我希望得到关于 **[GlycCat](https://github.com/WindowsSov8forUs/glyccat)** 的帮助
 - 💬 可以询问我关于 **Tsugu-BanGDream-Bot 在 Python 中的各种实现** 的事！
